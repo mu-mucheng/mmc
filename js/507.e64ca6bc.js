@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktoutiao_two"]=self["webpackChunktoutiao_two"]||[]).push([[507],{3507:function(t,n,u){u.r(n),u.d(n,{default:function(){return r}});var a=function(){var t=this,n=t._self._c;return n("div",{staticClass:"qa-container"},[t._v("问答")])},e=[],l={name:"QaIndex"},o=l,s=u(1001),i=(0,s.Z)(o,a,e,!1,null,null,null),r=i.exports}}]);
+//# sourceMappingURL=507.e64ca6bc.js.map
